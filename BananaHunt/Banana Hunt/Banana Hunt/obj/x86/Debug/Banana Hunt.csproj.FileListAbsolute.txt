@@ -1,0 +1,8 @@
+C:\Users\PRASAD\documents\visual studio 2010\Projects\Banana Hunt\Banana Hunt\Banana Hunt\obj\x86\Debug\Banana Hunt.csprojResolveAssemblyReference.cache
+C:\Users\PRASAD\documents\visual studio 2010\Projects\Banana Hunt\Banana Hunt\Banana Hunt\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\PRASAD\documents\visual studio 2010\Projects\Banana Hunt\Banana Hunt\Banana Hunt\bin\x86\Debug\Content\textures\monkey_excited.xnb
+C:\Users\PRASAD\documents\visual studio 2010\Projects\Banana Hunt\Banana Hunt\Banana Hunt\bin\x86\Debug\Banana Hunt.exe
+C:\Users\PRASAD\documents\visual studio 2010\Projects\Banana Hunt\Banana Hunt\Banana Hunt\bin\x86\Debug\Banana Hunt.pdb
+C:\Users\PRASAD\documents\visual studio 2010\Projects\Banana Hunt\Banana Hunt\Banana Hunt\obj\x86\Debug\Banana Hunt.exe
+C:\Users\PRASAD\documents\visual studio 2010\Projects\Banana Hunt\Banana Hunt\Banana Hunt\obj\x86\Debug\Banana Hunt.pdb
+C:\Users\PRASAD\documents\visual studio 2010\Projects\Banana Hunt\Banana Hunt\Banana Hunt\bin\x86\Debug\Content\textures\background.xnb
